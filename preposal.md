@@ -11,7 +11,7 @@ Scraping data from social media such as videos with a specific hashtag (most rec
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+No
 
 ## Do you have any questions of your own?
 
