@@ -1,4 +1,4 @@
-# Preproposal
+# Preposal
 
 ## What idea(s) do you have for your final project?
 
@@ -15,4 +15,4 @@ No
 
 ## Do you have any questions of your own?
 
-Is there a way to convert python code to another code? Just incase I am unable to execute on the idea because I can't do so with python. 
+No
